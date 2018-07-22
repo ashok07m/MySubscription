@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySub</string>
+
+    <string name="info_welcome_to_mivi">Welcome to MIVI</string>
+    <string name="lbl_login">Login</string>
+    <string name="info_loading">Loading...</string>
+    <string name="hint_enter_msn_id">enter msn id</string>
+    <string name="error_login_failed">Login attempt unsuccessful</string>
+    <string name="info_login_success">Login successful</string>
+    <string name="enter_msn">Please enter MSN id</string>
+    <string name="lbl_welcome">Welcome</string>
+    <string name="remain_bal">Remaining Data Bal.</string>
+    <string name="exp_date">Expiry Date</string>
+    <string name="plan_name">Plan</string>
+    <string name="price">Price</string>
+
+</resources>
